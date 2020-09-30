@@ -163,6 +163,12 @@ Thanks goes to these wonderful people
     <td align="center"><a href="https://lifeiscontent.net/"><img src="https://avatars3.githubusercontent.com/u/180963?v=4" width="100px;" alt=""/><br /><sub><b>Aaron Reisman</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=lifeiscontent" title="Documentation">📖</a></td>
     <td align="center"><a href="https://dev.to/jacobmgevans"><img src="https://avatars1.githubusercontent.com/u/27247160?v=4" width="100px;" alt=""/><br /><sub><b>Jacob M-G Evans</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/pulls?q=is%3Apr+reviewed-by%3AJacobMGEvans" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://jsehull.com"><img src="https://avatars1.githubusercontent.com/u/9935383?v=4" width="100px;" alt=""/><br /><sub><b>Jesse Hull</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=jsehull" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/tcaraccia-riv"><img src="https://avatars2.githubusercontent.com/u/64477810?v=4" width="100px;" alt=""/><br /><sub><b>Tomas Caraccia</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=tcaraccia-riv" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://vk.com/vasilii_kovalev"><img src="https://avatars0.githubusercontent.com/u/10310491?v=4" width="100px;" alt=""/><br /><sub><b>Vasilii Kovalev</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=vasilii-kovalev" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/FelixGeelhaar"><img src="https://avatars0.githubusercontent.com/u/6020564?v=4" width="100px;" alt=""/><br /><sub><b>Felix Geelhaar</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=FelixGeelhaar" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://twitter.com/apolakipso"><img src="https://avatars2.githubusercontent.com/u/494674?v=4" width="100px;" alt=""/><br /><sub><b>Apola Kipso</b></sub></a><br /><a href="https://github.com/kentcdodds/react-fundamentals/commits?author=apolakipso" title="Documentation">📖</a></td>
   </tr>
 </table>
 
